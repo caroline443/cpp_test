@@ -1,0 +1,2 @@
+D:\program\exercise1\pso\Debug\pso.exe
+D:\program\exercise1\pso\Debug\pso.pdb
