@@ -1,0 +1,2 @@
+D:\program\exercise1\pso_refactor\Debug\pso_refactor.exe
+D:\program\exercise1\pso_refactor\Debug\pso_refactor.pdb
